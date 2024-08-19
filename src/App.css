@@ -1,0 +1,37 @@
+.App{
+    background: linear-gradient(rgb(165, 165, 243),rgb(240, 241, 245));
+   height: 500px;
+    padding-top: 10%;
+    margin-top: -5%;
+    margin-left: -5%;
+    margin-right: -5%;
+    margin-bottom: -5%;
+}
+
+.heading{
+background-color: white;
+    margin-top: -2%;
+    margin-left: 41%;
+    border-style: solid;
+    margin-right: 47%;
+}
+
+.area{
+    margin-top: -1%;
+    margin-left: 38.3%;
+    
+}
+
+.bt{
+    margin-top: 0%;
+    margin-left: 42%; 
+    border-style: solid;
+    background-color: white;
+    height: 40px;
+    font-size: 15px;
+}
+
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
